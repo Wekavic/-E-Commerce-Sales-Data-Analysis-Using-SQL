@@ -8,10 +8,10 @@ This project delves into an e-commerce dataset utilizing SQL to extract valuable
 
 The primary objective of this project is to address pertinent business questions that facilitate informed decision-making in key areas such as:
 
-*   Customer Segmentation**: Understanding different customer groups.
-*   Revenue Optimization**: Strategies to maximize sales and profitability.
-*   Product Performance Evaluation**: Assessing the success and impact of various products.
-*   Regional Sales Analysis**: Examining sales patterns across different geographical locations.
+*   Customer Segmentation: Understanding different customer groups.
+*   Revenue Optimization: Strategies to maximize sales and profitability.
+*   Product Performance Evaluation: Assessing the success and impact of various products.
+*   Regional Sales Analysis: Examining sales patterns across different geographical locations.
 
 🗂 Dataset Description
 
